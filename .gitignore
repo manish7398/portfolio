@@ -30,8 +30,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # Images
-Screenshot*.png
-WhatsApp*.jpeg
-*.jpg
-*.png
-*.gif
+# (All project images are tracked by git)
